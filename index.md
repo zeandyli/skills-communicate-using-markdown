@@ -8,3 +8,7 @@ some changes....
 a = 1+2
 print(a)
 ```
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
